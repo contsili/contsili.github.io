@@ -1,12 +1,12 @@
 ---
-layout: page
+layout: default
 title: Career
 permalink: /career/
 ---
 
 # Career
 
-Here you can find my complete CV: [Download CV](assets/docs/AcademicCV_KonstantinosTsilimparis.pdf).
+Here you can find my complete CV: [Download CV](static/assets/docs/AcademicCV_KonstantinosTsilimparis.pdf).
 
 ## Work Experience
 - **OPM-MEG Consultant** at New York University Abu Dhabi (July 2024 – present, remote)
