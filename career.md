@@ -1,10 +1,8 @@
 ---
-layout: default
+layout: career
 title: Career
 permalink: /career/
 ---
-
-# Career
 
 Here you can find my complete CV: [Download CV](static/assets/docs/AcademicCV_KonstantinosTsilimparis.pdf).
 

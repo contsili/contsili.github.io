@@ -1,6 +1,6 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
+title: Welcome to Remi Gau's Website
 ---
+
+This is the homepage content, but most of the information comes from the layout file (`_layouts/home.html`).
