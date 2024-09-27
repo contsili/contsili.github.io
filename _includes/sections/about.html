@@ -118,12 +118,19 @@
       </div>
     </div>
     {% endfor %}
-    <div>
-      <div class="row">
-        <div class="col-lg-8 col-lg-offset-2 text-center m-t-lg m-b-lg wow zoomIn">
-          <p>
-            <span data-i18n="about_me.des">{{ site.author.desc | newline_to_br }}</span>
-          </p>
-        </div>
-      </div>
+  </div>
+  <!-- <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 text-center m-t-lg m-b-lg wow zoomIn">
+      <p><span data-i18n="about_me.des">{{ site.author.desc }}</span></p>
     </div>
+  </div>
+</div> -->
+<div>
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 text-center m-t-lg m-b-lg wow zoomIn">
+      <p>
+        <span data-i18n="about_me.des">{{ site.author.desc | newline_to_br }}</span> <!-- added 'newline_to_br'-->
+      </p>
+    </div>
+  </div>
+</div>
