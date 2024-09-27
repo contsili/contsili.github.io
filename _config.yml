@@ -30,7 +30,7 @@ author: # change following line to your information.
     -   name: fa-biohazard
     -   name: fa-biohazard
     #desc: Started as a physicist trying to model the universe, but now I am  working with brains — where everything's unpredictable, and the closest thing to certainty is a p-value. # Describe yourself.
-    desc: I develop computational models for MEG/EEG and<br>contribute to open-source software.
+    desc: I develop computational models for MEG/EEG and contribute to open-source software.
 
 # comment
 disqus: # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
