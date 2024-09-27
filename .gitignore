@@ -1,5 +1,9 @@
 _site
 .sass-cache
-.jekyll-cache
 .jekyll-metadata
-vendor
+.jekyll-cache
+.idea
+.DS_Store
+node_modules
+npm-debug.log
+.vscode/*.log

@@ -1,0 +1,28 @@
+---
+# projects section data
+# If you don't have language feature(language.yml is empty), ignore "i18n" items
+# Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+
+- name: FieldTrip
+  i18n: Markdown
+  gh_user: fieldtrip
+  repo: fieldtrip
+  url: https://github.com/fieldtrip/fieldtrip
+  img: static/assets/img/landing/fieldtrip_logo.png
+  desc: The MATLAB toolbox for MEG, EEG and iEEG analysis
+
+- name: FieldTrip Website
+  i18n: Markdown
+  gh_user: fieldtrip
+  repo: website
+  url: https://www.fieldtriptoolbox.org/
+  img: static/assets/img/landing/fieldtrip_logo.png
+  desc: FieldTrip documentation website.
+
+- name: MEG Pipeline
+  i18n: Markdown
+  gh_user: Hzaatiti
+  repo: meg-pipeline
+  url: https://github.com/Hzaatiti/meg-pipeline
+  img: static/assets/img/landing/NYU.png
+  desc: Documentation and pipeline page for MEG lab at NYU Abu Dhabi.

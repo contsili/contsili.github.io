@@ -1,24 +1,76 @@
-title: Konstantinos Tsilimparis
-url: https://contsili.github.io
-img_path: /contsili.github.io/static/assets/docs
+---
+# Welcome to Jekyll!
 
-# Menu configuration
-menu:
-  - title: Career
-    url: /career/
+# Website settings
+title: Konstantinos Tsilimparis
+description: Konstantinos' personal website
+keywords: Konstantinos,Tsilimparis,blog
+# baseurl: # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
+url: https://contsili.github.io # url should be 'http://<github_username>.github.io/homepage' as before. This is used by sitemap to help search engines like Google to better crawl and index the pages of my website
+img_path: /contsili.github.io/static/assets/img/blog # url should be '/homepage/static/assets/img/blog' as before
 
 # author -- index page "about me" section
-author:
-    name: Konstantinos Tsilimparis
+author: # change following line to your information.
+    name: KonstantinosTsilimparis
     first_name: Konstantinos
     last_name: Tsilimparis
-    avatar: /static/assets/docs/avatar.jpg
+    avatar: /static/assets/img/landing/avatar.jpg # upload your avatar at directory and edit it.
     github_username: contsili
     linkedin_id: konstantinos-tsilimparis
+ #   facebook_username: remi.gau1
     twitter_username: KonTsilimparis
+ #   mastodon: RemiGau
     email: konstantinos.tsilimparis@outlook.com
-    #cv: https://github.com/Remi-Gau/CV/raw/master/CV_English.pdf
-    desc: I develop computational models for MEG/EEG and contribute to open-source software.
+    cv: /static/assets/img/landing/AcademicCV_KonstantinosTsilimparis.pdf
+  # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
+    skill_icon1:
+    -   name: fa-biohazard
+    -   name: fa-biohazard
+    skill_icon2:
+    -   name: fa-biohazard
+    -   name: fa-biohazard
+    desc: Started as a physicist trying to model the universe, but now I am  working with brains — where everything's unpredictable, and the closest thing to certainty is a p-value. # Describe yourself.
 
-# Ensure you have a baseurl if necessary
-baseurl: ""
+# comment
+disqus: # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
+    name: contsili.github.io
+
+# analytics
+## google analytics
+# ga:  # if you wanna this feature, go to https://www.google.com/analytics/ to get your configuration; if not, comment following line.
+# id: UA-116460525-4
+
+## google optimize
+# go:
+# id:
+
+## growingIO
+# gio:  # if you wanna this feature, go to https://www.growingio.com/ to get your configuration; if not, comment following line.
+# id:
+
+## donation
+donation: off # type 'on'/'off' to choice display donation button at post page or not
+
+## carousels
+index_carousel: on # index page carousel switch
+blog_carousel: on # blog page carousel switch
+
+# scss
+sass:
+    style: compressed
+
+# Build settings
+encoding: UTF-8
+
+# other settings
+highlighter: rouge
+markdown: kramdown
+kramdown:
+    input: GFM
+    syntax_highlighter: rouge
+
+plugins:
+-   jekyll-redirect-from
+
+whitelist:
+-   jekyll-redirect-from

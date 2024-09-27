@@ -1171,6 +1171,7 @@ label.error {
   }
 }
 
+/* the code below put the title on the right if it is even and on the left if it is odd. I did not want that so I wrote my own code.
 @media only screen and (min-width: 1170px) {
   .center-orientation {
     .vertical-timeline-content {
@@ -1213,7 +1214,51 @@ label.error {
       }
     }
   }
+} */
+
+/* my own code */
+@media only screen and (min-width: 1170px) {
+  .center-orientation {
+    .vertical-timeline-content {
+      margin-left: 0; /* Reset left margin */
+      padding: 0.3em 1em 1em 1em;
+      width: 45%; /* Set width of the timeline blocks */
+
+      /* Move content to the left */
+      float: left; /* Align all timeline content to the left */
+
+      &::before {
+        top: 24px;
+        left: -10px; /* Adjust left alignment for the arrow */
+        border-color: transparent transparent transparent #fff;
+      }
+
+      .btn {
+        float: left; /* Keep buttons on the left */
+      }
+    }
+
+    /* Keep the date and position aligned to the right */
+    .vertical-timeline-content .vertical-date {
+      position: absolute; /* Keep position absolute */
+      width: 100%; /* Ensure full width */
+      left: auto;
+      right: -150%; /* Adjust to ensure the date stays right-aligned */
+      top: 2px; /* Position from the top */
+      font-size: 14px; /* Set font size */
+      text-align: right; /* Keep text alignment to the right */
+    }
+
+    /* Maintain the timeline arrow positioning */
+    .vertical-timeline-content::before {
+      top: 24px;
+      left: auto; /* Reset left positioning */
+      right: 100%; /* Arrow pointing towards the middle bar */
+      border-color: transparent #fff transparent transparent; /* Maintain border color */
+    }
+  }
 }
+
 
 .slick-next:before, .slick-prev:before {
   color: #3385FF !important;
