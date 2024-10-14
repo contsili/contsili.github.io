@@ -14,7 +14,7 @@ author: # change following line to your information.
     name: KonstantinosTsilimparis
     first_name: Konstantinos
     last_name: Tsilimparis
-    avatar: /static/assets/img/landing/avatar.jpg # upload your avatar at directory and edit it.
+    avatar: /static/assets/img/landing/avatar.jpeg # upload your avatar at directory and edit it.
     github_username: contsili
     linkedin_id: konstantinos-tsilimparis
  #   facebook_username: remi.gau1
