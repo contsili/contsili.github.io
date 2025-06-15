@@ -16,7 +16,7 @@
         detail: <a href="https://nyuad.nyu.edu/en/" target="_blank">NYU Abu Dhabi</a> (Abu Dhabi, United Arab Emirates - remote)
   #      i18n: company_a
     desc:
-        detail: Data analysis, Supervision, MATLAB, MEG
+        detail: Data analysis, Supervision, MEG, MATLAB
   #      i18n: company_a_desc
     date:
         detail: Sep 2024 – Dec 2024
@@ -29,9 +29,9 @@
 -   name:
         detail: <a href="https://www.ru.nl/en/donders-institute" target="_blank">Radboud University</a> (Nijmegen, Netherlands)
     desc:
-        detail: MEG, Source modelling, Computational modelling, MATLAB
+        detail: Data analysis, Computational modelling, MEG, MATLAB
     date:
-        detail: Sep 2023 – Sep 2024
+        detail: Sep 2023 – Aug 2024
     job:
         detail: Research Intern
 
