@@ -3,17 +3,37 @@
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 
 -   name:
+        detail: <a href="https://www.tmsi.artinis.com/" target="_blank">Artinis Medical Systems B.V.</a> (Oldenzaal, Netherlands)
+    desc:
+        detail: Software development, EMG, EEG, Python
+    date:
+        detail: Jan 2025 - present
+    job:
+        detail: Jr. Software Developer 
+
+
+-   name:
         detail: <a href="https://nyuad.nyu.edu/en/" target="_blank">NYU Abu Dhabi</a> (Abu Dhabi, United Arab Emirates - remote)
   #      i18n: company_a
     desc:
-        detail: Data analysis, GitHub, jupyter notebooks, MATLAB
+        detail: Data analysis, Supervision, MATLAB, MEG
   #      i18n: company_a_desc
     date:
-        detail: July 2024 – present
+        detail: Sep 2024 – Dec 2024
  #       i18n: company_a_date
     job:
-        detail: Consultant
+        detail: Scientific Consultant
  #       i18n: company_a_job
+
+
+-   name:
+        detail: <a href="https://www.ru.nl/en/donders-institute" target="_blank">Radboud University</a> (Nijmegen, Netherlands)
+    desc:
+        detail: MEG, Source modelling, Computational modelling, MATLAB
+    date:
+        detail: Sep 2023 – Sep 2024
+    job:
+        detail: Research Intern
 
 
 -   name:
@@ -21,36 +41,16 @@
     desc:
         detail: Software engineering, GitHub, MATLAB
     date:
-        detail: June 2023 – Sep 2023
+        detail: Jul 2023 – Sep 2023
     job:
-        detail: Trainee
-
-
--   name:
-        detail: <a href="https://www.ru.nl/en/donders-institute" target="_blank">Radboud University</a> (Nijmegen, Netherlands)
-    desc:
-        detail: MEG, source modelling, computational modelling, MATLAB
-    date:
-        detail: Sep 2022 – Sep 2024
-    job:
-        detail: Master student
+        detail: Student Trainee
 
 
 -   name:
         detail: <a href="https://medphys.med.auth.gr/" target="_blank">Medical Physics and Digital Innovation Lab</a> (Thessaloniki, Greece)
     desc:
-        detail: MEG, data analysis, functional connectivity, graph theory, MATLAB
+        detail: Data analysis, MEG, MATLAB
     date:
-        detail: Sep 2021 – Sep 2022
+        detail: Sep 2021 – Aug 2022
     job:
-        detail: Research assistant
-
-
--   name:
-        detail: <a href="https://www.uoc.gr/" target="_blank">University of Crete</a> (Crete, Greece)
-    desc:
-        detail: Optics, laser technology, pupillometry, biometrics
-    date:
-        detail: Sep 2017 – Sep 2021
-    job:
-        detail: Bachelor student
+        detail: Research Assistant
