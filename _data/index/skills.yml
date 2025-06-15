@@ -3,5 +3,5 @@
 
 label: Ability
 id: cs
-aspects: Python, Data analysis, Computational modelling, Software development, Web development, Git, MATLAB
-percentage: 75, 100, 75, 75, 50, 100, 100
+aspects: Software development, Web development, Git, MATLAB, Python, Data analysis, Computational modelling
+percentage: 75, 50, 100, 100, 75, 100, 75
