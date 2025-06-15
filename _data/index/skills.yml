@@ -3,5 +3,5 @@
 
 label: Ability
 id: cs
-aspects: GitHub, Git, MATLAB, Python, Bash, Data analysis, FieldTrip, MNE python, Presentation, LaTeX, HTML/CSS
-percentage: 75, 75, 90, 40, 30, 80, 90, 30, 30, 50, 30
+aspects: Git, MATLAB, Python, Bash, Data analysis, Computational modelling, FieldTrip, MNE python, LaTeX, Web development
+percentage: 100, 100, 75, 25, 75, 75, 100, 75, 50, 50
