@@ -5,7 +5,7 @@
 -   name:
         detail: <a href="https://www.tmsi.artinis.com/" target="_blank">Artinis Medical Systems B.V.</a> (Oldenzaal, Netherlands)
     desc:
-        detail: Software development, EMG, EEG, Python
+        detail: Software engineering, Software architecture, EMG, EEG, Python
     date:
         detail: Jan 2025 - present
     job:
@@ -29,7 +29,7 @@
 -   name:
         detail: <a href="https://www.ru.nl/en/donders-institute" target="_blank">Radboud University</a> (Nijmegen, Netherlands)
     desc:
-        detail: Data analysis, Computational modelling, MEG, MATLAB
+        detail: Data analysis, Computational neuroscience, MEG, MATLAB
     date:
         detail: Sep 2023 – Aug 2024
     job:
@@ -39,17 +39,17 @@
 -   name:
         detail: <a href="https://www.incf.org/2023/matlab-community-toolbox-training-projects" target="_blank">MathWorks</a> (Nijmegen, Netherlands - hybrid)
     desc:
-        detail: Software engineering, GitHub, MATLAB
+        detail: Software engineering, Software architecture, Unit testing, GitHub, MATLAB
     date:
         detail: Jul 2023 – Sep 2023
     job:
-        detail: Student Trainee
+        detail: Software Engineer Intern
 
 
 -   name:
         detail: <a href="https://medphys.med.auth.gr/" target="_blank">Medical Physics and Digital Innovation Lab</a> (Thessaloniki, Greece)
     desc:
-        detail: Data analysis, MEG, MATLAB
+        detail: Data analysis, Computational neuroscience, MEG, MATLAB
     date:
         detail: Sep 2021 – Aug 2022
     job:
