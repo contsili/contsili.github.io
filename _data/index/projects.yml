@@ -24,7 +24,7 @@
   gh_user: mne-tools
   repo: mne-python
   url: https://github.com/mne-tools/mne-python
-  img: https://github.com/mne-tools/.github/blob/main/images/mne_logo_small.svg
+  img: static/assets/img/landing/mne_logo_small.svg
   desc: Python toolbox for MEG and EEG analysis
   
 - name: MEG Pipeline
