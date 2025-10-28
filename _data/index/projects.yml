@@ -19,6 +19,14 @@
   img: static/assets/img/landing/fieldtrip_logo.png
   desc: FieldTrip documentation website.
 
+- name: MNE-Python
+  i18n: Markdown
+  gh_user: mne-tools
+  repo: mne-python
+  url: https://mne.tools/stable/index.html
+  img: static/assets/img/landing/mne_python_logo.png
+  desc: MNE-Python documentation and tutorials for EEG, MEG, and iEEG data analysis.
+  
 - name: MEG Pipeline
   i18n: Markdown
   gh_user: Hzaatiti
