@@ -9,7 +9,7 @@
   repo: fieldtrip
   url: https://github.com/fieldtrip/fieldtrip
   img: static/assets/img/landing/fieldtrip_logo.png
-  desc: The MATLAB toolbox for MEG, EEG and iEEG analysis
+  desc: MATLAB toolbox for MEG, EEG and iEEG analysis
 
 - name: FieldTrip Website
   i18n: Markdown
@@ -23,9 +23,9 @@
   i18n: Markdown
   gh_user: mne-tools
   repo: mne-python
-  url: https://mne.tools/stable/index.html
-  img: static/assets/img/landing/mne_python_logo.png
-  desc: MNE-Python documentation and tutorials for EEG, MEG, and iEEG data analysis.
+  url: https://github.com/mne-tools/mne-python
+  img: https://github.com/mne-tools/.github/blob/main/images/mne_logo_small.svg
+  desc: Python toolbox for MEG and EEG analysis
   
 - name: MEG Pipeline
   i18n: Markdown
