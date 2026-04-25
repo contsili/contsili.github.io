@@ -1,15 +1,24 @@
 ---
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
+-   name:
+        detail: <a href="https://www.radboudumc.nl/afdelingen/medical-neuroscience" target="_blank">Radboud University Medical Center</a> (Nijmegen, Netherlands)
+    desc:
+        detail: AI, Data analysis, Machine Learning, Python
+    date:
+        detail: Jan 2026 - present
+    job:
+        detail: Research Software Developer 
+
 
 -   name:
         detail: <a href="https://www.tmsi.artinis.com/" target="_blank">Artinis Medical Systems B.V.</a> (Oldenzaal, Netherlands)
     desc:
         detail: Software engineering, Software architecture, EMG, EEG, Python
     date:
-        detail: Jan 2025 - present
+        detail: Jan 2025 - Jan 2026
     job:
-        detail: Jr. Software Developer 
+        detail: Software Developer 
 
 
 -   name:
